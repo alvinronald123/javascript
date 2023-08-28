@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: rgb(247, 247, 198);
+}
+div{
+  justify-content: center;
+  align-items: center;
+  text-align: center;  
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 10px;
+  width: 300px;
+  height: 500px;
+  margin-left: 500px;
+  margin-top: 70px;
+  background-color: rgb(245, 192, 192);
+}
+h1{
+    margin-top: 20px;
+}
+h2{
+    margin-top: 20px;
+    font-size: 50px;
+}
+.incre{
+    margin-top: 20px;
+    padding: 20px;
+    width: 150px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(114, 52, 52);
+    color: aliceblue;
+}
+.incre:hover{
+    background-color: azure;
+    color: black;
+}
+.save{
+    margin-top: 50px;
+    padding: 20px;
+    width: 150px;
+    border-radius: 20px;
+    border: none;
+    background-color: green;
+    color: aliceblue;
+}
+.save:hover{
+    background-color: azure;
+    color: black;
+}
+h4{
+    margin-top: 50px;
+}
